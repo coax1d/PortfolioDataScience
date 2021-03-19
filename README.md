@@ -9,4 +9,4 @@ These are old homework problems and final project from my machine learning class
 
 Dear viewers,
 
-Much of this code after becoming a software engineer is written very poorly. Coding style, practice, etc. This was really my first interaction seroiusly with python and datascience in general.
+Much of this code after becoming a software engineer is written very poorly. Coding style, practice, etc. This was really my first interaction seriously with python and datascience in general.
